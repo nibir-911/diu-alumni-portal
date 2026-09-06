@@ -159,7 +159,7 @@ To design and develop a modern alumni portal concept that can improve alumni eng
 
 ### Raihan Chowdhury Nibir
 
-**Computing and Information Systems (CIS)**
+**Computing and Information Systems (CIS),**
 **Daffodil International University**
 
 ---
